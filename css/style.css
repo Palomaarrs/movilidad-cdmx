@@ -1,11 +1,11 @@
 html {
     font-size: 18px;
-    background-color: burlywood;
-    color: midnightblue;
 }
 
 body {
     font-family: "darkmode-on", sans-serif;
+     background-color: rgb(0, 0, 0);
+    color: rgb(255, 225, 0);
 }
 h1, h2, h3 {
     font-family: "relaxia", sans-serif;
