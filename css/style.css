@@ -16,3 +16,7 @@ h1{
 p {
     font-size: 1.2em;
 }
+
+main {
+    width: 1280px;
+}
