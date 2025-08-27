@@ -8,6 +8,10 @@ body {
     color: rgb(255, 225, 0);
 }
 
+a {
+   color: rgb(255, 225, 0);
+   text-decoration: none;
+}
 a:visited {
     color: rgb(143, 239, 99);
 }
